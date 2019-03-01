@@ -5,11 +5,13 @@ while (i < 8) {
   console.log(ingredients[i]);
   i++;
 }
+console.log("\n");
 
 
 for (var i = 0; i < ingredients.length; i++) {
   console.log(ingredients[i]);
 }
+console.log("\n");
 
 for (var i = 7; i > 0; i--) {
  console.log(ingredients[i]);
